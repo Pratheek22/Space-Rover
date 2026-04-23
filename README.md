@@ -215,13 +215,6 @@ Contributions are welcome! Please ensure:
 2. All packages build cleanly with `colcon build`
 3. Launch files are tested before committing
 
-## License
-
-Please see LICENSE file for details.
-
-## Authors
-
-- **PES1UG23CS448** - Main development
 
 ## Acknowledgments
 
